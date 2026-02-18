@@ -167,8 +167,8 @@ The same formula τ* = κ√(σ²/λ), with the same κ ≈ 1.0, independently g
 |---|---|---|---|
 | **Deep learning** | Matches Adam on CIFAR-10/100, zero tuning | 1.0007 (MNIST), 1.0 (CIFAR) | [Published](https://doi.org/10.5281/zenodo.18527033) |
 | **Financial markets** | 2.24× B&H OOS, t = 3.15 | 1.0 | [Published](https://doi.org/10.5281/zenodo.18642832) |
-| **Quadcopter control** | 61.5% improvement (simulation) | ~1.0 | In preparation |
-| **Computational** | R² = 0.9943 across 6 orders of magnitude | 1.0003 | [Published](https://doi.org/10.5281/zenodo.17596470) |
+| **Quadcopter control** | 61.5% improvement (prior validation workn) | ~1.0 | In preparation (include physical test) |
+| **Computational** | R² = 0.9943 across 6 orders of magnitude (prior validation work) | 1.0003 | [Published](https://doi.org/10.5281/zenodo.17596470) |
 
 Adam didn't know it was Syntonic. Neither did momentum strategies. The same temporal geometry hides inside both.
 
