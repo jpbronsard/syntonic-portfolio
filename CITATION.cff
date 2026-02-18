@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Bronsard"
+    given-names: "Jean-Pierre"
+    orcid: "https://orcid.org/0009-0008-6639-7553"
+    affiliation: "SyntonicAI Recherche, Montréal, QC, Canada"
+title: "Syntony Principle: Financial Markets Walk-Forward Validation & Geometric Interpretation of Adaptive Portfolio Management"
+version: 1.0
+doi: 10.5281/zenodo.18642832
+date-released: 2026-02-15
+url: "https://doi.org/10.5281/zenodo.18642832"
+repository-code: "https://github.com/jpbronsard/syntonic-portfolio"
+license: CC-BY-4.0
+type: software
+keywords:
+  - quantitative finance
+  - portfolio optimization
+  - walk-forward validation
+  - adaptive rebalancing
+  - momentum strategy
+  - volatility targeting
+  - scaling law
+  - syntony principle
+  - regime detection
+  - coherence metric
+references:
+  - type: article
+    authors:
+      - family-names: "Bronsard"
+        given-names: "Jean-Pierre"
+    title: "The Syntony Principle: A Unified Geometric Framework for Adaptive Intelligence — V4.1 Canonical Edition"
+    doi: 10.5281/zenodo.17254395
+    year: 2025
+  - type: article
+    authors:
+      - family-names: "Bronsard"
+        given-names: "Jean-Pierre"
+    title: "Syntony Principle: Deep Learning Validation & Geometric Interpretation of Adam"
+    doi: 10.5281/zenodo.18527033
+    year: 2026
